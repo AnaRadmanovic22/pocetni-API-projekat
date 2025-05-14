@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anara\\source\\repos\\PocetniProjekat\\PocetniProjekat\\PocetniProjekat.csproj": {}
+    "C:\\git\\Izrada REST API-ja\\pocetni-API-projekat\\PocetniProjekat\\PocetniProjekat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anara\\source\\repos\\PocetniProjekat\\PocetniProjekat\\PocetniProjekat.csproj": {
+    "C:\\git\\Izrada REST API-ja\\pocetni-API-projekat\\PocetniProjekat\\PocetniProjekat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anara\\source\\repos\\PocetniProjekat\\PocetniProjekat\\PocetniProjekat.csproj",
+        "projectUniqueName": "C:\\git\\Izrada REST API-ja\\pocetni-API-projekat\\PocetniProjekat\\PocetniProjekat.csproj",
         "projectName": "PocetniProjekat",
-        "projectPath": "C:\\Users\\anara\\source\\repos\\PocetniProjekat\\PocetniProjekat\\PocetniProjekat.csproj",
+        "projectPath": "C:\\git\\Izrada REST API-ja\\pocetni-API-projekat\\PocetniProjekat\\PocetniProjekat.csproj",
         "packagesPath": "C:\\Users\\anara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anara\\source\\repos\\PocetniProjekat\\PocetniProjekat\\obj\\",
+        "outputPath": "C:\\git\\Izrada REST API-ja\\pocetni-API-projekat\\PocetniProjekat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
